@@ -102,7 +102,7 @@ const books = [
     id: "010",
     author: "Samuel Beckett",
     country: "Republic of Ireland",
-    image: img10,
+    image: img10 ,
     language: "French",
     link: "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
     pages: 256,
